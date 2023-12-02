@@ -18,3 +18,32 @@ Installation guide, for Forge version 1.8.9:
 - #5, Once ingame, simply press the Grave (~) key to open the GUI!
 
 Forge 1.8.9 Installer (To use the Mod): https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html
+
+Some Frequent Questions and answers:
+
+Q: Does this work for bingo/iron man/stranded..?
+A: Yep! You can use this on any profile!
+
+Q: Can I get the new "Harp Master" Emblem with this Mod?
+A: Yes! As well as the "Harp Note" Emblem.
+
+Q: What ping is this for?
+A: Any ping! If you have low ping but are simply struggling with harp you can use this mod as well!
+
+Q: Is this safe to use?
+A: Yes! No need to worry about a ban or anything. 
+
+Q: It keeps failing, what do I do?
+A: Disconnect for about 5 minutes, this will give time for your Skyblock island to refresh which increases performance, something that is crucial for the harp. If you are using it in the park you may simply switch to another lobby. With the new Server Performance tester you can also see the performance of your server and if it is suitable for Melody Mod.
+
+Q: What do I do if my ping isn't listed?
+A: Select the closest one to your ping, to check your ping simply view the network icon for Hypixel on the server list.
+
+Q: Do I need the harp on my island?
+A: Nope, but it performs better.
+
+Q: Does this support every ping? What ping did you use?
+A: Yes, with this update I've included custom ping modes, I used this mod on about 250ms ping with no issues.
+
+Q: What songs are supported? 
+A: Every song! Including the difficult ones such as Through the Campfire, Pachelbel ect, just ensure you use the correct modes provided (easy, hard..)
