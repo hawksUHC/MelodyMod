@@ -47,3 +47,5 @@ Some Frequent Questions and answers:
 
 - Q: What songs are supported? 
 - A: Every song! Including the difficult ones such as Through the Campfire, Pachelbel ect, just ensure you use the correct modes provided (easy, hard..)
+
+- (2023/12/06) Minor changes.
