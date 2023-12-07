@@ -27,6 +27,9 @@ _____________________________________________
 _____________________________________________
 **Some Frequently asked questions and answers:**
 
+- Q: Is there a video preview?
+> A: Yes! Click this link to view all the songs: [YouTube](https://www.youtube.com/watch?v=DCU4f_U7fGI&t=165s)
+
 - Q: Does this work for bingo/iron man/stranded..?
 > A: Yep! You can use this on any profile!
 
