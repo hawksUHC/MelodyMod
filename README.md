@@ -1,7 +1,7 @@
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d4325323056657273696f6e2d312e382e392d626c75653f636f6c6f723d253233396630306666267374796c653d666f722d7468652d6261646765](https://github.com/hawksUHC/MelodyMod/assets/150234597/b7b52cd8-b362-4827-84d1-9b50478c516c) ![68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f646f776e6c6f6164732f5175616e74697a722f44756e67656f6e526f6f6d734d6f642f746f74616c3f636f6c6f723d253233396630306666267374796c653d666f722d7468652d6261646765](https://github.com/hawksUHC/MelodyMod/assets/150234597/5fcf8576-6d7b-4f23-9530-20e751eee3a6) ![68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f762f72656c656173652f5175616e74697a722f44756e67656f6e526f6f6d734d6f643f636f6c6f723d253233396630306666267374796c653d666f722d7468652d6261646765](https://github.com/hawksUHC/MelodyMod/assets/150234597/c0b3fbc3-cadc-4f0e-bb45-a668e06b170e)
 
 
-**(Dec 11) NOTE! If the keybind doesn't do anything/reports a error, please use the version linked in the video on this page, after some testing on an alternative computer I've encountered some specific issues which I will address after December, as I'm unable to work on this project right now. Thank you for your patience and support!**
+**(Dec 11) NOTE! If the keybind doesn't do anything/reports an error, please use the version linked in the video on this page, after some testing on an alternative computer I've encountered some specific issues which I will address after December, as I'm unable to work on this project right now. Thank you for your patience and support!**
 
 
 
