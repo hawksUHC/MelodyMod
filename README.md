@@ -3,7 +3,7 @@
 
 **Welcome to the GitHub page for Melody Mod! Here I will log all recent changes, updates and new features.**
 
-**Note as of 21 December 2023 if you encounter issues please use the version from the video linked to this page, as any outstanding issues will be addressed in the new year. Thank you.**
+**Note as of 22 December 2023 I've addressed some outstanding issues, if you still encounter issues please use the version from the video linked on this page, as any outstanding issues will be addressed in the new year. Thank you. Merry Christmas and Happy New Year everyone!**
 
 ______________________________________________
 **What's new in V4?**
