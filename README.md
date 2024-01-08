@@ -3,7 +3,7 @@
 
 **Welcome to the GitHub page for Melody Mod! Here I will log all recent changes, updates and new features.**
 
-**(Jan 2024): Some issues may arise when using this version, which I will address in the next update, in the meanwhile use this video to install the better, less buggy version: https://www.youtube.com/watch?v=3bzPhDI_c8A (Supports Minecraft Launcher)**
+**(Jan 08): Some issues may arise when using this version, which I will address in the next update, in the meanwhile use this video to install the better, less buggy version: https://www.youtube.com/watch?v=3bzPhDI_c8A (Supports Minecraft Launcher)**
 
 ______________________________________________
 **What's new in V4?**
